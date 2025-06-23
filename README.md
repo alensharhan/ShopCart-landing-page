@@ -4,7 +4,7 @@
 
 ---
 
-![ShopCart Preview](./assets/screenshot.png) <!-- Replace with actual path once you upload -->
+![ShopCart Preview](./assets/README-PIC.png) <!-- Replace with actual path once you upload -->
 
 🔗 **Live Demo:** [shopcart-landing-page.netlify.app](https://shopcart-landing-page.netlify.app)
 
@@ -21,8 +21,6 @@
 
 ---
 
-
----
 
 ## 🚀 Deployment
 
